@@ -1,0 +1,71 @@
+name: Run ArcticGro report
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - codex/run-all-code-and-generate-report
+    paths:
+      - scripts/generate_report.py
+      - reports/**
+      - "*.csv"
+      - "*.xlsx"
+      - .github/workflows/run-report.yml
+  pull_request:
+    paths:
+      - scripts/generate_report.py
+      - reports/**
+      - "*.csv"
+      - "*.xlsx"
+      - .github/workflows/run-report.yml
+
+jobs:
+  report:
+    name: Generate report and figures
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate report and figures
+        run: python scripts/generate_report.py
+
+      - name: Compile report script
+        run: python -m py_compile scripts/generate_report.py
+
+      - name: Verify report outputs
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          report = Path("reports/arcticgro_report.md")
+          if not report.exists():
+              raise SystemExit("Missing reports/arcticgro_report.md")
+
+          figures = sorted(Path("reports/figures").glob("*.svg"))
+          print(f"Found {len(figures)} SVG figures")
+          if len(figures) != 11:
+              raise SystemExit(f"Expected 11 figures, found {len(figures)}")
+
+          for figure in figures:
+              size = figure.stat().st_size
+              print(f"{figure}: {size} bytes")
+              if size == 0:
+                  raise SystemExit(f"Empty figure: {figure}")
+          PY
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: arcticgro-report
+          path: |
+            reports/arcticgro_report.md
+            reports/figures/*.svg
