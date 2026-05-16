@@ -79,10 +79,12 @@ Key generated outputs include:
 - `outputs/tables/stage_boundaries.csv`: river-specific discharge-stage summaries.
 - `data/processed/modeling_table.csv`: ArcticGRO samples merged with HydroATLAS and REAL features.
 - `data/processed/modeling_table_features.csv`: modeling table with source-access indices.
-- `outputs/tables/predictor_audit.csv`: predictor screening report documenting retained and removed variables.
+- `outputs/tables/cleaned_modeling_table.csv`: user-facing cleaned modeling table with descriptive HydroATLAS names and mechanism indices.
+- `outputs/tables/predictor_audit.csv`: predictor screening report documenting retained/removed variables, collinearity, and double-counting risk.
 - `outputs/tables/model_metrics.csv`: leave-one-river-out and blocked river-year validation metrics.
 - `data/processed/model_predictions.csv`: out-of-fold predictions and residuals.
-- `outputs/tables/empirical_equation_standardized_coefficients.csv`: interpretable Ridge approximation coefficients.
+- `outputs/tables/empirical_equation_coefficients.csv`: interpretable Ridge approximation coefficients with bootstrap intervals.
+- `outputs/tables/feature_importance.csv`: random-forest permutation importance summary.
 - `outputs/figures/*.png`: measured-vs-predicted, residual, seasonal, model comparison, and correlation diagnostics.
 - `outputs/reports/final_ml_prediction_report.md`, plus DOCX/PDF when optional report dependencies are installed.
 
@@ -96,7 +98,9 @@ Key generated outputs include:
 - Main transferability validation is leave-one-river-out cross-validation.
 - Operational monitored-river validation is blocked by river-year.
 - Random row-split validation is not reported as main evidence.
-- The empirical equation is an interpretable approximation; nonlinear ML models remain the prediction models.
+- Compared models include interpretable linear regression, polynomial Ridge, penalized-spline additive Ridge, Random Forest, ExtraTrees, Gradient Boosting, and a hierarchical component model.
+- The hierarchical model writes catchment baseline, seasonal/daily tuning, and residual correction components in `data/processed/model_predictions.csv`.
+- The empirical equation is an interpretable approximation; nonlinear and hierarchical validation models remain the prediction models.
 
 ## Data limitations
 
