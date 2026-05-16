@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#263238} .axis{stroke:#455a64;stroke-width:1} .grid{stroke:#cfd8dc;stroke-width:.7} .label{font-size:12px} .title{font-size:18px;font-weight:bold} .small{font-size:10px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="460.0" y="30" text-anchor="middle" class="title">REAL reach width distribution</text>
+<line x1="88" y1="410.0" x2="890" y2="410.0" class="grid"/>
+<text x="80" y="414.0" text-anchor="end" class="small"></text>
+<line x1="88" y1="340.4" x2="890" y2="340.4" class="grid"/>
+<text x="80" y="344.4" text-anchor="end" class="small">10,000</text>
+<line x1="88" y1="270.8" x2="890" y2="270.8" class="grid"/>
+<text x="80" y="274.8" text-anchor="end" class="small">20,000</text>
+<line x1="88" y1="201.2" x2="890" y2="201.2" class="grid"/>
+<text x="80" y="205.2" text-anchor="end" class="small">30,000</text>
+<line x1="88" y1="131.6" x2="890" y2="131.6" class="grid"/>
+<text x="80" y="135.6" text-anchor="end" class="small">40,000</text>
+<line x1="88" y1="62.0" x2="890" y2="62.0" class="grid"/>
+<text x="80" y="66.0" text-anchor="end" class="small">50,000</text>
+<rect x="96.0" y="208.6" width="25.1" height="201.4" fill="#6c5ce7" rx="2"/>
+<text x="108.5" y="203.6" text-anchor="middle" class="small">28,943</text>
+<text transform="translate(108.5,428) rotate(-35)" text-anchor="end" class="small">420.4</text>
+<rect x="129.1" y="388.7" width="25.1" height="21.3" fill="#6c5ce7" rx="2"/>
+<text x="141.6" y="383.7" text-anchor="middle" class="small">3,066</text>
+<text transform="translate(141.6,428) rotate(-35)" text-anchor="end" class="small">1,259</text>
+<rect x="162.2" y="403.3" width="25.1" height="6.7" fill="#6c5ce7" rx="2"/>
+<text x="174.7" y="398.3" text-anchor="middle" class="small">96</text>
+<text transform="translate(174.7,428) rotate(-35)" text-anchor="end" class="small">2,098</text>
+<rect x="195.2" y="407.0" width="25.1" height="3.0" fill="#6c5ce7" rx="2"/>
+<text x="207.8" y="402.0" text-anchor="middle" class="small">437</text>
+<text transform="translate(207.8,428) rotate(-35)" text-anchor="end" class="small">2,937</text>
+<rect x="228.3" y="408.4" width="25.1" height="1.6" fill="#6c5ce7" rx="2"/>
+<text x="240.9" y="403.4" text-anchor="middle" class="small">224</text>
+<text transform="translate(240.9,428) rotate(-35)" text-anchor="end" class="small">3,776</text>
+<rect x="261.4" y="409.1" width="25.1" height="0.9" fill="#6c5ce7" rx="2"/>
+<text x="274.0" y="404.1" text-anchor="middle" class="small">128</text>
+<text transform="translate(274.0,428) rotate(-35)" text-anchor="end" class="small">4,614</text>
+<rect x="294.5" y="409.6" width="25.1" height="0.4" fill="#6c5ce7" rx="2"/>
+<text x="307.0" y="404.6" text-anchor="middle" class="small">59</text>
+<text transform="translate(307.0,428) rotate(-35)" text-anchor="end" class="small">5,453</text>
+<rect x="327.6" y="409.7" width="25.1" height="0.3" fill="#6c5ce7" rx="2"/>
+<text x="340.1" y="404.7" text-anchor="middle" class="small">42</text>
+<text transform="translate(340.1,428) rotate(-35)" text-anchor="end" class="small">6,292</text>
+<rect x="360.7" y="409.7" width="25.1" height="0.3" fill="#6c5ce7" rx="2"/>
+<text x="373.2" y="404.7" text-anchor="middle" class="small">41</text>
+<text transform="translate(373.2,428) rotate(-35)" text-anchor="end" class="small">7,131</text>
+<rect x="393.7" y="409.8" width="25.1" height="0.2" fill="#6c5ce7" rx="2"/>
+<text x="406.3" y="404.8" text-anchor="middle" class="small">3</text>
+<text transform="translate(406.3,428) rotate(-35)" text-anchor="end" class="small">7,970</text>
+<rect x="426.8" y="409.9" width="25.1" height="0.1" fill="#6c5ce7" rx="2"/>
+<text x="439.4" y="404.9" text-anchor="middle" class="small">15</text>
+<text transform="translate(439.4,428) rotate(-35)" text-anchor="end" class="small">8,808</text>
+<rect x="459.9" y="409.9" width="25.1" height="0.1" fill="#6c5ce7" rx="2"/>
+<text x="472.5" y="404.9" text-anchor="middle" class="small">9</text>
+<text transform="translate(472.5,428) rotate(-35)" text-anchor="end" class="small">9,647</text>
+<rect x="493.0" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="505.5" y="405.0" text-anchor="middle" class="small">3</text>
+<text transform="translate(505.5,428) rotate(-35)" text-anchor="end" class="small">10,486</text>
+<rect x="526.1" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="538.6" y="405.0" text-anchor="middle" class="small">6</text>
+<text transform="translate(538.6,428) rotate(-35)" text-anchor="end" class="small">11,325</text>
+<rect x="559.2" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="571.7" y="405.0" text-anchor="middle" class="small">1</text>
+<text transform="translate(571.7,428) rotate(-35)" text-anchor="end" class="small">12,163</text>
+<rect x="592.2" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="604.8" y="405.0" text-anchor="middle" class="small">3</text>
+<text transform="translate(604.8,428) rotate(-35)" text-anchor="end" class="small">13,002</text>
+<rect x="625.3" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="637.9" y="405.0" text-anchor="middle" class="small">4</text>
+<text transform="translate(637.9,428) rotate(-35)" text-anchor="end" class="small">13,841</text>
+<rect x="658.4" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="671.0" y="405.0" text-anchor="middle" class="small">2</text>
+<text transform="translate(671.0,428) rotate(-35)" text-anchor="end" class="small">14,680</text>
+<rect x="691.5" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="704.0" y="405.0" text-anchor="middle" class="small">1</text>
+<text transform="translate(704.0,428) rotate(-35)" text-anchor="end" class="small">15,519</text>
+<rect x="724.6" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="737.1" y="405.0" text-anchor="middle" class="small">1</text>
+<text transform="translate(737.1,428) rotate(-35)" text-anchor="end" class="small">16,357</text>
+<rect x="757.7" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="770.2" y="405.0" text-anchor="middle" class="small">2</text>
+<text transform="translate(770.2,428) rotate(-35)" text-anchor="end" class="small">17,196</text>
+<rect x="790.7" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="803.3" y="405.0" text-anchor="middle" class="small"></text>
+<text transform="translate(803.3,428) rotate(-35)" text-anchor="end" class="small">18,035</text>
+<rect x="823.8" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="836.4" y="405.0" text-anchor="middle" class="small">2</text>
+<text transform="translate(836.4,428) rotate(-35)" text-anchor="end" class="small">18,874</text>
+<rect x="856.9" y="410.0" width="25.1" height="0.0" fill="#6c5ce7" rx="2"/>
+<text x="869.5" y="405.0" text-anchor="middle" class="small">2</text>
+<text transform="translate(869.5,428) rotate(-35)" text-anchor="end" class="small">19,713</text>
+<line x1="88" y1="62" x2="88" y2="410" class="axis"/>
+<line x1="88" y1="410" x2="890" y2="410" class="axis"/>
+<text transform="translate(22,236.0) rotate(-90)" text-anchor="middle" class="label">Rows</text>
+</svg>

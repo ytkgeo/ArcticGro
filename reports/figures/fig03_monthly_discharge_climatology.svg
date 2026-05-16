@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#263238} .axis{stroke:#455a64;stroke-width:1} .grid{stroke:#cfd8dc;stroke-width:.7} .label{font-size:12px} .title{font-size:18px;font-weight:bold} .small{font-size:10px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="30" text-anchor="middle" class="title">Monthly discharge climatology by river</text>
+<line x1="82" y1="498.0" x2="790" y2="498.0" class="grid"/>
+<text x="74" y="502.0" text-anchor="end" class="small"></text>
+<line x1="82" y1="410.0" x2="790" y2="410.0" class="grid"/>
+<text x="74" y="414.0" text-anchor="end" class="small">20,000</text>
+<line x1="82" y1="322.0" x2="790" y2="322.0" class="grid"/>
+<text x="74" y="326.0" text-anchor="end" class="small">40,000</text>
+<line x1="82" y1="234.0" x2="790" y2="234.0" class="grid"/>
+<text x="74" y="238.0" text-anchor="end" class="small">60,000</text>
+<line x1="82" y1="146.0" x2="790" y2="146.0" class="grid"/>
+<text x="74" y="150.0" text-anchor="end" class="small">80,000</text>
+<line x1="82" y1="58.0" x2="790" y2="58.0" class="grid"/>
+<text x="74" y="62.0" text-anchor="end" class="small">100,000</text>
+<path d="M82.0,496.4 L146.4,496.7 L210.7,496.9 L275.1,497.0 L339.5,486.3 L403.8,434.8 L468.2,467.4 L532.5,472.8 L596.9,473.8 L661.3,488.3 L725.6,495.0 L790.0,495.9" fill="none" stroke="#1f77b4" stroke-width="2"/>
+<circle cx="82.0" cy="496.4" r="2.3" fill="#1f77b4"/>
+<circle cx="146.4" cy="496.7" r="2.3" fill="#1f77b4"/>
+<circle cx="210.7" cy="496.9" r="2.3" fill="#1f77b4"/>
+<circle cx="275.1" cy="497.0" r="2.3" fill="#1f77b4"/>
+<circle cx="339.5" cy="486.3" r="2.3" fill="#1f77b4"/>
+<circle cx="403.8" cy="434.8" r="2.3" fill="#1f77b4"/>
+<circle cx="468.2" cy="467.4" r="2.3" fill="#1f77b4"/>
+<circle cx="532.5" cy="472.8" r="2.3" fill="#1f77b4"/>
+<circle cx="596.9" cy="473.8" r="2.3" fill="#1f77b4"/>
+<circle cx="661.3" cy="488.3" r="2.3" fill="#1f77b4"/>
+<circle cx="725.6" cy="495.0" r="2.3" fill="#1f77b4"/>
+<circle cx="790.0" cy="495.9" r="2.3" fill="#1f77b4"/>
+<rect x="812" y="68" width="12" height="12" fill="#1f77b4"/>
+<text x="830" y="78" class="small">Kolyma</text>
+<path d="M82.0,483.8 L146.4,486.8 L210.7,489.3 L275.1,490.7 L339.5,456.4 L403.8,174.9 L468.2,325.7 L532.5,375.4 L596.9,387.2 L661.3,432.3 L725.6,481.1 L790.0,483.6" fill="none" stroke="#ff7f0e" stroke-width="2"/>
+<circle cx="82.0" cy="483.8" r="2.3" fill="#ff7f0e"/>
+<circle cx="146.4" cy="486.8" r="2.3" fill="#ff7f0e"/>
+<circle cx="210.7" cy="489.3" r="2.3" fill="#ff7f0e"/>
+<circle cx="275.1" cy="490.7" r="2.3" fill="#ff7f0e"/>
+<circle cx="339.5" cy="456.4" r="2.3" fill="#ff7f0e"/>
+<circle cx="403.8" cy="174.9" r="2.3" fill="#ff7f0e"/>
+<circle cx="468.2" cy="325.7" r="2.3" fill="#ff7f0e"/>
+<circle cx="532.5" cy="375.4" r="2.3" fill="#ff7f0e"/>
+<circle cx="596.9" cy="387.2" r="2.3" fill="#ff7f0e"/>
+<circle cx="661.3" cy="432.3" r="2.3" fill="#ff7f0e"/>
+<circle cx="725.6" cy="481.1" r="2.3" fill="#ff7f0e"/>
+<circle cx="790.0" cy="483.6" r="2.3" fill="#ff7f0e"/>
+<rect x="812" y="88" width="12" height="12" fill="#ff7f0e"/>
+<text x="830" y="98" class="small">Lena</text>
+<path d="M82.0,479.7 L146.4,481.1 L210.7,482.2 L275.1,481.8 L339.5,434.9 L403.8,408.1 L468.2,422.4 L532.5,437.7 L596.9,447.0 L661.3,457.1 L725.6,476.0 L790.0,481.6" fill="none" stroke="#2ca02c" stroke-width="2"/>
+<circle cx="82.0" cy="479.7" r="2.3" fill="#2ca02c"/>
+<circle cx="146.4" cy="481.1" r="2.3" fill="#2ca02c"/>
+<circle cx="210.7" cy="482.2" r="2.3" fill="#2ca02c"/>
+<circle cx="275.1" cy="481.8" r="2.3" fill="#2ca02c"/>
+<circle cx="339.5" cy="434.9" r="2.3" fill="#2ca02c"/>
+<circle cx="403.8" cy="408.1" r="2.3" fill="#2ca02c"/>
+<circle cx="468.2" cy="422.4" r="2.3" fill="#2ca02c"/>
+<circle cx="532.5" cy="437.7" r="2.3" fill="#2ca02c"/>
+<circle cx="596.9" cy="447.0" r="2.3" fill="#2ca02c"/>
+<circle cx="661.3" cy="457.1" r="2.3" fill="#2ca02c"/>
+<circle cx="725.6" cy="476.0" r="2.3" fill="#2ca02c"/>
+<circle cx="790.0" cy="481.6" r="2.3" fill="#2ca02c"/>
+<rect x="812" y="108" width="12" height="12" fill="#2ca02c"/>
+<text x="830" y="118" class="small">Mackenzie</text>
+<path d="M82.0,475.7 L146.4,479.2 L210.7,481.4 L275.1,480.4 L339.5,425.3 L403.8,354.9 L468.2,369.4 L532.5,402.9 L596.9,438.1 L661.3,452.4 L725.6,468.6 L790.0,473.1" fill="none" stroke="#d62728" stroke-width="2"/>
+<circle cx="82.0" cy="475.7" r="2.3" fill="#d62728"/>
+<circle cx="146.4" cy="479.2" r="2.3" fill="#d62728"/>
+<circle cx="210.7" cy="481.4" r="2.3" fill="#d62728"/>
+<circle cx="275.1" cy="480.4" r="2.3" fill="#d62728"/>
+<circle cx="339.5" cy="425.3" r="2.3" fill="#d62728"/>
+<circle cx="403.8" cy="354.9" r="2.3" fill="#d62728"/>
+<circle cx="468.2" cy="369.4" r="2.3" fill="#d62728"/>
+<circle cx="532.5" cy="402.9" r="2.3" fill="#d62728"/>
+<circle cx="596.9" cy="438.1" r="2.3" fill="#d62728"/>
+<circle cx="661.3" cy="452.4" r="2.3" fill="#d62728"/>
+<circle cx="725.6" cy="468.6" r="2.3" fill="#d62728"/>
+<circle cx="790.0" cy="473.1" r="2.3" fill="#d62728"/>
+<rect x="812" y="128" width="12" height="12" fill="#d62728"/>
+<text x="830" y="138" class="small">Ob</text>
+<path d="M82.0,466.1 L146.4,466.4 L210.7,467.1 L275.1,466.6 L339.5,363.9 L403.8,158.5 L468.2,385.4 L532.5,421.4 L596.9,421.3 L661.3,433.5 L725.6,460.8 L790.0,466.6" fill="none" stroke="#9467bd" stroke-width="2"/>
+<circle cx="82.0" cy="466.1" r="2.3" fill="#9467bd"/>
+<circle cx="146.4" cy="466.4" r="2.3" fill="#9467bd"/>
+<circle cx="210.7" cy="467.1" r="2.3" fill="#9467bd"/>
+<circle cx="275.1" cy="466.6" r="2.3" fill="#9467bd"/>
+<circle cx="339.5" cy="363.9" r="2.3" fill="#9467bd"/>
+<circle cx="403.8" cy="158.5" r="2.3" fill="#9467bd"/>
+<circle cx="468.2" cy="385.4" r="2.3" fill="#9467bd"/>
+<circle cx="532.5" cy="421.4" r="2.3" fill="#9467bd"/>
+<circle cx="596.9" cy="421.3" r="2.3" fill="#9467bd"/>
+<circle cx="661.3" cy="433.5" r="2.3" fill="#9467bd"/>
+<circle cx="725.6" cy="460.8" r="2.3" fill="#9467bd"/>
+<circle cx="790.0" cy="466.6" r="2.3" fill="#9467bd"/>
+<rect x="812" y="148" width="12" height="12" fill="#9467bd"/>
+<text x="830" y="158" class="small">Yenisey</text>
+<path d="M82.0,489.7 L146.4,491.0 L210.7,491.8 L275.1,491.9 L339.5,457.9 L403.8,426.8 L468.2,442.8 L532.5,448.6 L596.9,451.2 L661.3,464.2 L725.6,480.7 L790.0,487.6" fill="none" stroke="#8c564b" stroke-width="2"/>
+<circle cx="82.0" cy="489.7" r="2.3" fill="#8c564b"/>
+<circle cx="146.4" cy="491.0" r="2.3" fill="#8c564b"/>
+<circle cx="210.7" cy="491.8" r="2.3" fill="#8c564b"/>
+<circle cx="275.1" cy="491.9" r="2.3" fill="#8c564b"/>
+<circle cx="339.5" cy="457.9" r="2.3" fill="#8c564b"/>
+<circle cx="403.8" cy="426.8" r="2.3" fill="#8c564b"/>
+<circle cx="468.2" cy="442.8" r="2.3" fill="#8c564b"/>
+<circle cx="532.5" cy="448.6" r="2.3" fill="#8c564b"/>
+<circle cx="596.9" cy="451.2" r="2.3" fill="#8c564b"/>
+<circle cx="661.3" cy="464.2" r="2.3" fill="#8c564b"/>
+<circle cx="725.6" cy="480.7" r="2.3" fill="#8c564b"/>
+<circle cx="790.0" cy="487.6" r="2.3" fill="#8c564b"/>
+<rect x="812" y="168" width="12" height="12" fill="#8c564b"/>
+<text x="830" y="178" class="small">Yukon</text>
+<text x="82.0" y="520" text-anchor="middle" class="small">1</text>
+<text x="259.0" y="520" text-anchor="middle" class="small">4</text>
+<text x="436.0" y="520" text-anchor="middle" class="small">6</text>
+<text x="613.0" y="520" text-anchor="middle" class="small">9</text>
+<text x="790.0" y="520" text-anchor="middle" class="small">12</text>
+<line x1="82" y1="58" x2="82" y2="498" class="axis"/>
+<line x1="82" y1="498" x2="790" y2="498" class="axis"/>
+<text transform="translate(22,278.0) rotate(-90)" text-anchor="middle" class="label">Mean discharge (m³/s)</text>
+<text x="436.0" y="540" text-anchor="middle" class="label">Year</text>
+</svg>
