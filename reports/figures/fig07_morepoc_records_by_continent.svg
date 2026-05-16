@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#263238} .axis{stroke:#455a64;stroke-width:1} .grid{stroke:#cfd8dc;stroke-width:.7} .label{font-size:12px} .title{font-size:18px;font-weight:bold} .small{font-size:10px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="460.0" y="30" text-anchor="middle" class="title">MOREPOC records by continent</text>
+<line x1="88" y1="410.0" x2="890" y2="410.0" class="grid"/>
+<text x="80" y="414.0" text-anchor="end" class="small"></text>
+<line x1="88" y1="340.4" x2="890" y2="340.4" class="grid"/>
+<text x="80" y="344.4" text-anchor="end" class="small">4</text>
+<line x1="88" y1="270.8" x2="890" y2="270.8" class="grid"/>
+<text x="80" y="274.8" text-anchor="end" class="small">8</text>
+<line x1="88" y1="201.2" x2="890" y2="201.2" class="grid"/>
+<text x="80" y="205.2" text-anchor="end" class="small">1,200</text>
+<line x1="88" y1="131.6" x2="890" y2="131.6" class="grid"/>
+<text x="80" y="135.6" text-anchor="end" class="small">1,600</text>
+<line x1="88" y1="62.0" x2="890" y2="62.0" class="grid"/>
+<text x="80" y="66.0" text-anchor="end" class="small">2,000</text>
+<rect x="96.0" y="359.4" width="124.3" height="50.6" fill="#e84393" rx="2"/>
+<text x="158.2" y="354.4" text-anchor="middle" class="small">291</text>
+<text transform="translate(158.2,428) rotate(-35)" text-anchor="end" class="small">Africa</text>
+<rect x="228.3" y="70.0" width="124.3" height="340.0" fill="#e84393" rx="2"/>
+<text x="290.5" y="65.0" text-anchor="middle" class="small">1,954</text>
+<text transform="translate(290.5,428) rotate(-35)" text-anchor="end" class="small">Asia</text>
+<rect x="360.7" y="387.4" width="124.3" height="22.6" fill="#e84393" rx="2"/>
+<text x="422.8" y="382.4" text-anchor="middle" class="small">13</text>
+<text transform="translate(422.8,428) rotate(-35)" text-anchor="end" class="small">Europe</text>
+<rect x="493.0" y="272.0" width="124.3" height="138.0" fill="#e84393" rx="2"/>
+<text x="555.2" y="267.0" text-anchor="middle" class="small">793</text>
+<text transform="translate(555.2,428) rotate(-35)" text-anchor="end" class="small">North America</text>
+<rect x="625.3" y="394.2" width="124.3" height="15.8" fill="#e84393" rx="2"/>
+<text x="687.5" y="389.2" text-anchor="middle" class="small">91</text>
+<text transform="translate(687.5,428) rotate(-35)" text-anchor="end" class="small">Oceania</text>
+<rect x="757.7" y="360.1" width="124.3" height="49.9" fill="#e84393" rx="2"/>
+<text x="819.8" y="355.1" text-anchor="middle" class="small">287</text>
+<text transform="translate(819.8,428) rotate(-35)" text-anchor="end" class="small">South America</text>
+<line x1="88" y1="62" x2="88" y2="410" class="axis"/>
+<line x1="88" y1="410" x2="890" y2="410" class="axis"/>
+<text transform="translate(22,236.0) rotate(-90)" text-anchor="middle" class="label">Records</text>
+</svg>
